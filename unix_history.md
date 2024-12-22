@@ -20,3 +20,15 @@ Rob pike
 
 #LINUX
 
+- fast inverse root square de john carmack
+- unix wars  => BSD (ken thompson SPACE wars), creation d'unix soumsoum
+- creation linux MAIL initial
+- stallman GNU
+- xerox => apple => microsoft
+- le first actual BUG
+- le premier spam de l'histoire
+- int overflow fusée ariane 
+- la quantité de mémoire pour la premiere mission applo
+- margaret hamilton => avec son code
+- bash '*.c' versionning
+- core dump
