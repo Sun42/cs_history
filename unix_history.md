@@ -32,3 +32,4 @@ Rob pike
 - margaret hamilton => avec son code
 - bash '*.c' versionning
 - core dump
+- IBM Watson
