@@ -33,3 +33,5 @@ Rob pike
 - bash '*.c' versionning
 - core dump
 - IBM Watson
+- histoire des langages
+- histoire des navigateurs 
