@@ -34,4 +34,5 @@ Rob pike
 - core dump
 - IBM Watson
 - histoire des langages
-- histoire des navigateurs 
+- histoire des navigateurs
+- histoire des encodage de caractère cf xkcd
