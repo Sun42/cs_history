@@ -36,3 +36,4 @@ Rob pike
 - histoire des langages
 - histoire des navigateurs
 - histoire des encodage de caractère cf xkcd
+- histoire des virus 
