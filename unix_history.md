@@ -2,7 +2,8 @@ Ressources:
 https://www.youtube.com/watch?v=XuzeagzQwRs
 The History of Unix, Rob Pike https://www.youtube.com/watch?v=_2NI6t2r_Hs
 
-
+https://www.bell-labs.com/usr/dmr/www/hist.html
+https://nixers.net/Thread-Processes-On-Unix
 # MULTICS
 
 # UNIX
