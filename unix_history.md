@@ -22,8 +22,8 @@ Rob pike
 #PLAN 9
 ## concepts
 ## why it didn take off
-## utf-8
-
+## utf-8 designed on a napkin 
+https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt
 #LINUX
 
 - fast inverse root square de john carmack
