@@ -1,7 +1,7 @@
 Ressources:
 https://www.youtube.com/watch?v=XuzeagzQwRs
 The History of Unix, Rob Pike https://www.youtube.com/watch?v=_2NI6t2r_Hs
-
+https://youtu.be/XuzeagzQwRs?si=iTsj8NuE_cv-LM-d
 https://www.bell-labs.com/usr/dmr/www/hist.html
 
 https://nixers.net/Thread-Processes-On-Unix
